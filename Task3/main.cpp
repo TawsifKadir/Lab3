@@ -1,3 +1,6 @@
+#include<iostream>
+using namespace std;
+
 int main() {
     // Write C++ code here
     int rows,columns;
