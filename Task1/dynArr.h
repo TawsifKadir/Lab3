@@ -2,7 +2,7 @@ template <class T>
 class dynArr
 {
 private:
-    int *data;
+    T *data;
     int size;
 public:
     dynArr();
