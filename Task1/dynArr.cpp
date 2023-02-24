@@ -5,7 +5,7 @@ dynArr<T>::dynArr() {
 }
 template <class T>
 dynArr<T>::dynArr(int a) {
-    data = new int[a];
+    data = new T[a];
     size = a;
 }
 template <class T>
